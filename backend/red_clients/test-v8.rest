@@ -1,0 +1,25 @@
+@baseUrl = http://localhost:5000/api
+
+### 0. Register Admin (ทำแค่ครั้งแรกครั้งเดียว)
+POST {{baseUrl}}/auth/register
+Content-Type: application/json
+
+{
+    "username": "admin01",
+    "password": "password1234"
+}
+
+### 1. Login
+POST {{baseUrl}}/auth/login
+Content-Type: application/json
+
+{
+    "username": "admin01",
+    "password": "password1234"
+}
+
+### 2. Get Users (ต้อง Login ก่อน)
+GET {{baseUrl}}/users
+
+### 3. Logout (Reset Client)
+POST {{baseUrl}}/auth/logout

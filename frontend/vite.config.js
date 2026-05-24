@@ -1,0 +1,16 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
+
+// vite.dev
+export default defineConfig({
+  plugins: [
+    react(),
+    tailwindcss(),
+  ],
+  server: {
+    watch: {
+      usePolling: true, // เปิดการสแกนไฟล์เพื่อแก้ไขปัญหาการรีเฟรชออโต้บนอุปกรณ์บางระบบ
+    },
+  },
+})
