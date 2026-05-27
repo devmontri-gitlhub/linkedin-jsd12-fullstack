@@ -14,8 +14,11 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-    origin: 'http://localhost:5173', // พอร์ตของ Vite
-    credentials: true // อนุญาต HTTP-Only Cookie
+    origin: [
+        'http://localhost:5173', // สำหรับทดสอบในเครื่อง
+        'https://linkedin-jsd12-fullstack.vercel.app/' // << เปลี่ยนเป็น URL หน้าเว็บ Vercel ของพี่ (ระวังอย่าให้มีเครื่องหมาย / ต่อท้ายนะครับ)
+    ],
+    credentials: true
 }));
 
 // Routes
