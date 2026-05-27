@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-    baseURL: 'http://localhost:5000/api/users',
+    baseURL: 'https://linkedin-jsd12-fullstack.onrender.com/api/users',
     withCredentials: true,
 });
 

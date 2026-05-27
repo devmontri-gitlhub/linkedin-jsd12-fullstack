@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL = 'http://localhost:5000/api/admins';
+const API_URL = 'https://linkedin-jsd12-fullstack.onrender.com/api/admins';
 
 export const getAdminsAPI = async () => {
     const res = await axios.get(API_URL, { withCredentials: true });
