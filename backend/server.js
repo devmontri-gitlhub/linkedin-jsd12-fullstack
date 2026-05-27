@@ -21,6 +21,10 @@ app.use(cors({
     credentials: true
 }));
 
+app.get('/', (req, res) => {
+    res.send('Backend API is running successfully! 🚀');
+});
+
 // Routes
 app.use('/api/auth', adminLoginRoute);
 app.use('/api/admins', adminRoutes);
