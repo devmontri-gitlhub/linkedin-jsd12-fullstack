@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="bwGzBZ8Bkoo-1ivg43yX" name="Page-1">
-        <mxGraphModel dx="1983" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1885" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -356,16 +356,16 @@
                     <mxGeometry x="30.63" y="-353.75" width="110" height="57.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="XBZkzKC-4DUcRKImtByg-208" value="ExplanPage.jsx&lt;br&gt;(src/pages)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-119.99999999999999" y="-455" width="110" height="57.5" as="geometry"/>
+                    <mxGeometry x="-338.75" y="-400.63" width="110" height="57.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="XBZkzKC-4DUcRKImtByg-210" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="XBZkzKC-4DUcRKImtByg-208" target="XBZkzKC-4DUcRKImtByg-207" edge="1">
+                <mxCell id="XBZkzKC-4DUcRKImtByg-210" value="" style="edgeStyle=none;html=1;exitX=1.017;exitY=0.639;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="XBZkzKC-4DUcRKImtByg-208" target="XBZkzKC-4DUcRKImtByg-207" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="85" y="-390" as="sourcePoint"/>
                         <mxPoint x="-50" y="-510" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="XBZkzKC-4DUcRKImtByg-211" value="AdminDashboardPage.jsx&lt;br&gt;(src/pages)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="-448.75" width="160" height="57.5" as="geometry"/>
+                    <mxGeometry x="-40.95" y="-434.37" width="160" height="57.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="XBZkzKC-4DUcRKImtByg-217" value="AboutMePage.jsx&lt;br&gt;(src/pages)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="244.35999999999999" y="-441.87999999999994" width="120" height="57.5" as="geometry"/>
@@ -389,10 +389,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="YPK_ZdpMVk51JvwhXL6W-211" value="" style="whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-                    <mxGeometry x="-160" y="-665.13" width="564.36" height="90.25" as="geometry"/>
+                    <mxGeometry x="-390" y="-665.13" width="794.36" height="90.25" as="geometry"/>
                 </mxCell>
                 <mxCell id="YPK_ZdpMVk51JvwhXL6W-212" value="Service_Layer or API_Client  or  Custom_HooK" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
-                    <mxGeometry x="110" y="-665.13" width="210" height="20" as="geometry"/>
+                    <mxGeometry x="90.94" y="-665.13" width="210" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="YPK_ZdpMVk51JvwhXL6W-215" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Admin.Service&lt;/span&gt;.js&lt;br&gt;(src/services)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="140.63" y="-641.88" width="120" height="57.5" as="geometry"/>
@@ -521,37 +521,37 @@
                         <mxPoint x="212.86000000000013" y="-545.25" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="217" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.453;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XBZkzKC-4DUcRKImtByg-211" target="XBZkzKC-4DUcRKImtByg-207" edge="1">
+                <mxCell id="217" value="" style="edgeStyle=none;html=1;entryX=0.161;entryY=0.031;entryDx=0;entryDy=0;exitX=0.453;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="XBZkzKC-4DUcRKImtByg-211" target="XBZkzKC-4DUcRKImtByg-207" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="80.63" y="-384.38" as="sourcePoint"/>
                         <mxPoint x="77.63" y="-359.38" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="mzdOepHPwv2hKs0JK8FJ-217" value="UserManagement.jsx&lt;br&gt;(src/components)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-0.6399999999999864" y="-545.25" width="120" height="57.5" as="geometry"/>
+                    <mxGeometry x="-117.49999999999999" y="-545.25" width="120" height="57.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="mzdOepHPwv2hKs0JK8FJ-218" value="UserService.jsx&lt;br&gt;(src/components)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-0.6399999999999864" y="-641.88" width="120" height="57.5" as="geometry"/>
+                <mxCell id="mzdOepHPwv2hKs0JK8FJ-218" value="UserService.js&lt;br&gt;(src/services)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-160.95" y="-644.5" width="120" height="57.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="mzdOepHPwv2hKs0JK8FJ-219" value="" style="edgeStyle=none;html=1;exitX=0.372;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                <mxCell id="mzdOepHPwv2hKs0JK8FJ-219" value="" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="mzdOepHPwv2hKs0JK8FJ-217" source="mzdOepHPwv2hKs0JK8FJ-218">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="58.68000000000001" y="-587" as="sourcePoint"/>
-                        <mxPoint x="60.040000000000134" y="-542.25" as="targetPoint"/>
+                        <mxPoint x="-50.67999999999999" y="-580.13" as="sourcePoint"/>
+                        <mxPoint x="-49.319999999999865" y="-535.38" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="mzdOepHPwv2hKs0JK8FJ-221" value="" style="edgeStyle=none;html=1;exitX=0.372;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                <mxCell id="mzdOepHPwv2hKs0JK8FJ-221" value="" style="edgeStyle=none;html=1;exitX=0.372;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="60.00000000000001" y="-493.5" as="sourcePoint"/>
-                        <mxPoint x="61.360000000000134" y="-448.75" as="targetPoint"/>
+                        <mxPoint x="-49.35999999999999" y="-486.63" as="sourcePoint"/>
+                        <mxPoint x="-10" y="-430" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="mzdOepHPwv2hKs0JK8FJ-223" value="FlowAboutProject.jsx&lt;br&gt;(Draw.io)" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-                    <mxGeometry x="-130" y="-545.25" width="120" height="57.5" as="geometry"/>
+                    <mxGeometry x="-390" y="-506.25" width="120" height="57.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="mzdOepHPwv2hKs0JK8FJ-224" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="XBZkzKC-4DUcRKImtByg-208" edge="1">
+                <mxCell id="mzdOepHPwv2hKs0JK8FJ-224" value="" style="edgeStyle=none;html=1;entryX=0.364;entryY=-0.006;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" target="XBZkzKC-4DUcRKImtByg-208" edge="1" source="mzdOepHPwv2hKs0JK8FJ-223">
                     <mxGeometry x="0.0051" relative="1" as="geometry">
-                        <mxPoint x="-69" y="-490" as="sourcePoint"/>
-                        <mxPoint x="-69" y="-460" as="targetPoint"/>
+                        <mxPoint x="-109" y="-490" as="sourcePoint"/>
+                        <mxPoint x="-207.5" y="-448.75" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
@@ -631,8 +631,35 @@
                 <mxCell id="220" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;backend/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;├── server.js&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # Entry point ตั้งค่า Express, cors(), express.json() และเชื่อมต่อ MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;├── routes/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;├── admin.routes.js&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # กำหนด Route ทั่วไปสำหรับแอดมิน&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;├── user.routes.js&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;# กำหนด Route สำหรับผู้ใช้งาน&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;└── admin.login.route.js&amp;nbsp; &amp;nbsp; &amp;nbsp;# ✨ [เพิ่มเข้ามา] กำหนด Route สำหรับการ Login ของ Admin โดยเฉพาะ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;├── controllers/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;├── admin.controllers.js&amp;nbsp; &amp;nbsp; &amp;nbsp;# Logic ทั่วไปสำหรับ Admin&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;├── user.controllers.js&amp;nbsp; &amp;nbsp; &amp;nbsp; # Logic สำหรับ User&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;└── admin.login.controller.js # ✨ [เพิ่มเข้ามา] Logic สำหรับตรวจสอบรหัสผ่าน (bcrypt.compare), สร้าง JWT และส่งกลับเป็น HTTP-Only Cookie&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;├── middleware/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;└── admin.auth.middleware.js # ตรวจสอบความถูกต้องของ JWT Token ก่อนอนุญาตให้เข้าถึง API&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;├── models/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;├── admin.models.js&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; # Mongoose Schema ของ Admin (พร้อม Pre-save สำหรับเข้ารหัสผ่านด้วย bcrypt)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;│&amp;nbsp; &amp;nbsp;└── user.models.js&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;# Mongoose Schema ของ User&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;└── package.json&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="690" y="260" width="780" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="221" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;1.ตั้ง packege.json ให้ reset เมื่อมีการเปลี่ยนแปลง&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;2. ระวัง ตัวแปล URL MONGODB และ JWT SECRET&lt;br&gt;3. await ไม่ต้องใส่ฟังชั่น Next() เพราะเวอร์ชั่นใหม่ไม่มีให้ใช้แล้ว ดังนั้นเวลาใช้มันจะแจ้ง่ว่าไม่เจอ และขึ้น Error&lt;br&gt;4. เพิ่ม โฟล .env และ .gitignore ด้วย&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="221" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;1.ตั้ง packege.json ให้ reset เมื่อมีการเปลี่ยนแปลง&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;2. ระวัง ตัวแปล URL MONGODB และ JWT SECRET&lt;br&gt;3. await ไม่ต้องใส่ฟังชั่น Next() เพราะเวอร์ชั่นใหม่ไม่มีให้ใช้แล้ว ดังนั้นเวลาใช้มันจะแจ้ง่ว่าไม่เจอ และขึ้น Error&lt;br&gt;4. เพิ่ม โฟล .env และ .gitignore ด้วย&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="-664.37" y="-1080" width="870" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="222" value="UserRagAssistant.jsx&lt;br&gt;(src/components)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-251.57999999999998" y="-540.25" width="120" height="57.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="223" value="Service_Layer or API_Client  or  Custom_HooK" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="-300" y="-665.13" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="224" value="" style="edgeStyle=none;html=1;exitX=0.82;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="222" target="XBZkzKC-4DUcRKImtByg-211">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-167.5" y="-484.75" as="sourcePoint"/>
+                        <mxPoint x="-78.75" y="-440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="225" value="UserRag.Service.js&lt;br&gt;(src/services)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-322.5" y="-641.88" width="120" height="57.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="226" value="" style="edgeStyle=none;html=1;exitX=0.82;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="222">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-260" y="-587" as="sourcePoint"/>
+                        <mxPoint x="-148" y="-535" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="227" value="UserRagAssistant.jsx&lt;br&gt;(src/components)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="14.509999999999991" y="-545.25" width="120" height="57.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="228" value="UserRag.Service.js&lt;br&gt;(src/services)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-2.842170943040401e-14" y="-641.88" width="120" height="57.5" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
