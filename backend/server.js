@@ -16,7 +16,7 @@ app.use(cookieParser());
 app.use(cors({
     origin: [
         'http://localhost:5173', // สำหรับทดสอบในเครื่อง
-        'https://linkedin-jsd12-fullstack.vercel.app/' // << เปลี่ยนเป็น URL หน้าเว็บ Vercel ของพี่ (ระวังอย่าให้มีเครื่องหมาย / ต่อท้ายนะครับ)
+        'https://linkedin-jsd12-fullstack.vercel.app' // << เปลี่ยนเป็น URL หน้าเว็บ Vercel ของพี่ (ระวังอย่าให้มีเครื่องหมาย / ต่อท้ายนะครับ)
     ],
     credentials: true
 }));
